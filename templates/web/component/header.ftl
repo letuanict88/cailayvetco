@@ -241,7 +241,7 @@
                     <a class="nav__menu-link font-title" href="/tin-tuc">Tin tức - Sự kiện</a>
                     <ul class="nav__sub-menu">
                     <li class="nav__sub-menu-item">
-                        <a class="nav__menu-sublink font-title" href="/tin-tuc#mavinex-news">Tin nội bộ</a>
+                        <a class="nav__menu-sublink font-title" href="/tin-tuc#cailay-news">Tin nội bộ</a>
                     </li>
                     <li class="nav__sub-menu-item">
                         <a class="nav__menu-sublink font-title" href="/tin-tuc#field-news">Tin ngành</a>
