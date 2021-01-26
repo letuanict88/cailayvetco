@@ -6,7 +6,7 @@
         </div>
     </div>
     <div class="container">
-        <div class="row data-container mr-lg-0 mr-md-0 ml-md-0 ml-md-0" id="mavinex-news">
+        <div class="row data-container mr-lg-0 mr-md-0 ml-md-0 ml-md-0" id="cailay-news">
                 <#list news as aNews>
                 <#if aNews.category = "internalnews">
                 <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mavinex pl-lg-0">
