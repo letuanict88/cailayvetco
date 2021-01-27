@@ -1,9 +1,9 @@
 var numberOfFieldsNews = $("#field-news .fields").length;
-var numberOfMavinexNews = $("#mavinex-news .mavinex").length;
+var numberOfMavinexNews = $("#cailay-news .mavinex").length;
 
 var limitPerPage = 2;
 
-$("#mavinex-news .mavinex:gt(" + (limitPerPage -1 )+")").hide();
+$("#cailay-news .mavinex:gt(" + (limitPerPage -1 )+")").hide();
 $("#field-news .fields:gt(" + (limitPerPage -1 )+")").hide();
 
 var totalPages1 = Math.round(numberOfMavinexNews / limitPerPage );
@@ -33,10 +33,10 @@ $('.pagi1 li.current-page').on("click", function(){
         $('.pagi1 li').removeClass("active");
         $(this).addClass("active");
         $(this).children().attr('style', 'background-color: #322372 !important');
-        $("#mavinex-news .mavinex").hide();
+        $("#cailay-news .mavinex").hide();
         var total = limitPerPage * currentPage;
         for(let i = total - limitPerPage; i<total; i++){
-            $("#mavinex-news .mavinex:eq("+ i +")").show();
+            $("#cailay-news .mavinex:eq("+ i +")").show();
         }
     }
 });
@@ -49,10 +49,10 @@ $("#next-page1").on("click", function() {
       $('.pagi1 *').removeAttr('style');
     currentPage++; 
     $(".pagi1 li").removeClass('active'); 
-    $("#mavinex-news .mavinex").hide();
+    $("#cailay-news .mavinex").hide();
     var total = limitPerPage * currentPage; 
     for (let i = total - limitPerPage; i < total; i++) {
-      $("#mavinex-news .mavinex:eq(" + i + ")").show(); 
+      $("#cailay-news .mavinex:eq(" + i + ")").show(); 
     }
 
     $(".pagi1 li.current-page:eq(" + (currentPage -1) + ")").addClass('active'); 
@@ -69,10 +69,10 @@ $("#previous-page1").on("click", function() {
           $('.pagi1 *').removeAttr('style');
         currentPage--; 
         $(".pagi1 li").removeClass('active'); 
-        $("#mavinex-news .mavinex").hide();
+        $("#cailay-news .mavinex").hide();
         var grandTotal = limitPerPage * currentPage; 
         for (var i = grandTotal - limitPerPage; i < grandTotal; i++) {
-          $("#mavinex-news .mavinex:eq(" + i + ")").show();
+          $("#cailay-news .mavinex:eq(" + i + ")").show();
         }
         $(".pagi1 li.current-page:eq(" + (currentPage - 1) + ")").addClass('active'); 
         $(".pagi1 li.current-page:eq(" + (currentPage -1) + ")").children().attr('style', 'background-color: #322372 !important');
