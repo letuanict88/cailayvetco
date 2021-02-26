@@ -13,11 +13,7 @@
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<avatar_s/>
-	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Nghi quyet trieu tam dai hoi dong co dong thuong nien 2021.pdf</key>
-	<value>/static-assets/images/libraries/Nghi quyet trieu tam dai hoi dong co dong thuong nien 2021.pdf</value>
-	<fileType_mvs>pdf</fileType_mvs>
-	<fileSize_s>218672</fileSize_s>
-	</item>	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Thong báo ngày dăng ký cuoi cung thuc hien quyen du dai hoi ĐCĐ TN 2021.pdf</key>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Thong báo ngày dăng ký cuoi cung thuc hien quyen du dai hoi ĐCĐ TN 2021.pdf</key>
 	<value>/static-assets/images/libraries/Thong báo ngày dăng ký cuoi cung thuc hien quyen du dai hoi ĐCĐ TN 2021.pdf</value>
 	<fileType_mvs>pdf</fileType_mvs>
 	<fileSize_s>486996</fileSize_s>
@@ -25,6 +21,6 @@
 	<isDisplay_b>false</isDisplay_b>
 	<createdDate>2020-10-19T10:53:17.888Z</createdDate>
 	<createdDate_dt>2020-10-19T10:53:17.888Z</createdDate_dt>
-	<lastModifiedDate>2021-02-26T01:09:07.689Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-02-26T01:09:07.689Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-02-26T01:12:33.810Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-02-26T01:12:33.810Z</lastModifiedDate_dt>
 </page>
