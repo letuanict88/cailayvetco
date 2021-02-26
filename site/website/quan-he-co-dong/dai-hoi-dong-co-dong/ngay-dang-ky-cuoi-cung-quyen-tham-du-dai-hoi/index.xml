@@ -12,7 +12,7 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<internal-name>Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2021</internal-name>
 	<navLabel>Thông báo về ngày đăng ký cuối cùng tham dự ĐH</navLabel>
-	<title_s>Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2020</title_s>
+	<title_s>Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2021</title_s>
 	<slideImage_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/ccb51d38-3426-c573-0cb1-b8bf071db8aa.xml</key>
 	<value>Header - Đại hội đồng cổ đông </value>
 	<include>/site/items/slides/ccb51d38-3426-c573-0cb1-b8bf071db8aa.xml</include>
@@ -24,8 +24,8 @@
 	<content_html>&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/thong-bao-ngay-dang-ky-cuoi-cung-tham-du-dai-hoi"&gt;/thu-vien/thu-vien-tai-lieu/thong-bao-ngay-dang-ky-cuoi-cung-tham-du-dai-hoi&lt;/a&gt;&lt;/p&gt;</content_html>
 	<createdDate>2020-07-31T09:11:08.129Z</createdDate>
 	<createdDate_dt>2020-07-31T09:11:08.129Z</createdDate_dt>
-	<lastModifiedDate>2021-02-26T02:31:23.257Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-02-26T02:31:23.257Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-02-26T02:34:24.056Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-02-26T02:34:24.056Z</lastModifiedDate_dt>
 	<date_dt>2021-02-26T01:48:57.000Z</date_dt>
 	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
 </page>
