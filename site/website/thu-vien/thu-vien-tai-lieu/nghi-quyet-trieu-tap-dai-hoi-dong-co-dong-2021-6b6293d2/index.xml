@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagedemoEn</content-type>
+	<display-template>/templates/web/page/viewPdf.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>54f72447</objectGroupId>
+	<objectId>54f72447-9a97-4581-936a-b8a93a413077</objectId>
+	<internal-name>Nghị quyết triệu tập đại hội đồng cổ đông 2021 6b6293d2</internal-name>
+	<title_s>Nghị quyết triệu tập đại hội đồng cổ đông 2021</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>nghi-quyet-trieu-tap-dai-hoi-dong-co-dong-2021-6b6293d2</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<avatar_s/>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/bao cao tai chinh quy 3.20.pdf</key>
+	<value>/static-assets/images/libraries/bao cao tai chinh quy 3.20.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	<fileSize_s>6620875</fileSize_s>
+	</item>	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Nghi quyet trieu tam dai hoi dong co dong thuong nien 2021.pdf</key>
+	<value>/static-assets/images/libraries/Nghi quyet trieu tam dai hoi dong co dong thuong nien 2021.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	<fileSize_s>218672</fileSize_s>
+	</item></pDFfile_o>
+	<isDisplay_b>false</isDisplay_b>
+	<createdDate>2020-10-19T10:53:17.888Z</createdDate>
+	<createdDate_dt>2020-10-19T10:53:17.888Z</createdDate_dt>
+	<lastModifiedDate>2021-02-26T01:04:26.679Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-02-26T01:04:26.679Z</lastModifiedDate_dt>
+</page>
