@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-	<savedAsDraft>true</savedAsDraft>
 	<content-type>/page/quanhecodongdetail</content-type>
 	<display-template>/templates/web/investorrelations.ftl</display-template>
 	<no-template-required/>
@@ -22,11 +21,11 @@
 	<include>/site/items/slides/34aa6f1b-4ce1-d96b-040d-850da039adc6.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></slideImage_o>
-	<content_html>&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/nghi-quyet-trieu-tap-dai-hoi-dong-co-dong-2021"&gt;nghi-quyet-trieu-tap-dai-hoi-dong-co-dong-2021&lt;/a&gt;&lt;/p&gt;</content_html>
+	<content_html>&lt;p&gt;&lt;a href="/thu-vien/thu-vien-tai-lieu/ nghi-quyet-trieu-tap-dai-hoi-dong-co-dong-2021"&gt;nghi-quyet-trieu-tap-dai-hoi-dong-co-dong-2021&lt;/a&gt;&lt;/p&gt;</content_html>
 	<createdDate>2020-07-31T10:46:21.463Z</createdDate>
 	<createdDate_dt>2020-07-31T10:46:21.463Z</createdDate_dt>
-	<lastModifiedDate>2021-02-26T01:32:39.241Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-02-26T01:32:39.241Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-02-26T01:40:38.594Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-02-26T01:40:38.594Z</lastModifiedDate_dt>
 	<date_dt>2021-02-26T01:33:28.000Z</date_dt>
 	<date_dt_tz>Asia/Ho_Chi_Minh</date_dt_tz>
 </page>
