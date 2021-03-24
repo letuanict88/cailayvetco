@@ -13,14 +13,14 @@
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<avatar_s/>
-	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/tai lieu pdf.rar</key>
-	<value>/static-assets/images/libraries/tai lieu pdf.rar</value>
-	<fileType_mvs>rar</fileType_mvs>
-	<fileSize_s>1880851</fileSize_s>
+	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/TLmerged.pdf</key>
+	<value>/static-assets/images/libraries/TLmerged.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	<fileSize_s>2055266</fileSize_s>
 	</item></pDFfile_o>
 	<isDisplay_b>false</isDisplay_b>
 	<createdDate>2020-10-19T10:53:17.888Z</createdDate>
 	<createdDate_dt>2020-10-19T10:53:17.888Z</createdDate_dt>
-	<lastModifiedDate>2021-03-24T08:44:46.114Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-03-24T08:44:46.114Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-03-24T09:05:29.918Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-03-24T09:05:29.918Z</lastModifiedDate_dt>
 </page>
