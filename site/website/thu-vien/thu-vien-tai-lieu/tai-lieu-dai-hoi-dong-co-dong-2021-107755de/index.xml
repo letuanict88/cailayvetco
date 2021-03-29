@@ -6,12 +6,12 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>cbc4f582</objectGroupId>
 	<objectId>cbc4f582-3ad2-42ce-9a7b-3df2b9cc6808</objectId>
-	<internal-name>Công bố tài liệu đại hội đồng cổ đông năm 2021 107755de</internal-name>
-	<title_s>Công bố tài liệu đại hội đồng cổ đông năm 2021</title_s>
+	<internal-name>Công bố báo cáo tài chính năm 2020</internal-name>
+	<title_s>Công bố báo cáo tài chính năm 2020</title_s>
 	<file-name>index.xml</file-name>
-	<folder-name>tai-lieu-dai-hoi-dong-co-dong-2021-107755de</folder-name>
+	<folder-name>bao-cao-tai-chinh-nam-2020</folder-name>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<avatar_s/>
 	<pDFfile_o item-list="true">	<item datasource="fileUpload">	<key>/static-assets/images/libraries/Tai lieu dai hoi 2021.pdf</key>
 	<value>/static-assets/images/libraries/Tai lieu dai hoi 2021.pdf</value>
@@ -21,6 +21,6 @@
 	<isDisplay_b>false</isDisplay_b>
 	<createdDate>2020-10-19T10:53:17.888Z</createdDate>
 	<createdDate_dt>2020-10-19T10:53:17.888Z</createdDate_dt>
-	<lastModifiedDate>2021-03-24T09:39:29.251Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-03-24T09:39:29.251Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-03-29T08:47:57.838Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-03-29T08:47:57.838Z</lastModifiedDate_dt>
 </page>
